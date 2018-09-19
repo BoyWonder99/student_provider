@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Student Provider</string>
+    <string name="name">Name </string>
+    <string name="grade">Grade</string>
+    <string name="add">ADD NAME</string>
+    <string name="retrive">RETRIVE STUDENT</string>
+    <string name="std">STUDENT INFO</string>
+</resources>
